@@ -1,6 +1,7 @@
 /*import logo from './logo.svg';*/
 import HolbertonLogo from './Holberton-logo.jpeg';
 import './App.css';
+import { getFullYear, getFooterCopy } from './utils'
 
 function App() {
   return (

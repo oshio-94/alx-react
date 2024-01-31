@@ -4,7 +4,7 @@ function getFullYear() {
 }
 
 function getFooterCopy(isIndex) {
-    if (isIndex == true) {
+    if (isIndex === true) {
         return 'Holberton School'
     } else {
         return 'Holberton School main dashboard'
